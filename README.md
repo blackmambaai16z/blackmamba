@@ -1,4 +1,4 @@
-# Eliza 🤖
+# Black Mamba 🤖
 
 <div align="center">
   <img src="./docs/static/img/blackmamba.jpeg" alt="Eliza Banner" width="100%" />
